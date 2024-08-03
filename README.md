@@ -17,10 +17,10 @@
 
 ## 화면 구상
 ### 회원가입
-<img width="383" alt="image" src="https://github.com/user-attachments/assets/9e512e43-2fca-4872-bc38-3a34840e2175">
+<img width="546" alt="image" src="https://github.com/user-attachments/assets/9e512e43-2fca-4872-bc38-3a34840e2175">
 
 ### 로그인
-<img width="544" alt="image" src="https://github.com/user-attachments/assets/4f4be83e-ac10-4806-95fc-3b945ac958df">
+<img width="546" alt="image" src="https://github.com/user-attachments/assets/4f4be83e-ac10-4806-95fc-3b945ac958df">
 
 ### 회원가입 후 관리화면
 <img width="546" alt="image" src="https://github.com/user-attachments/assets/219459d8-21f3-47e8-804d-9092f00af018">
