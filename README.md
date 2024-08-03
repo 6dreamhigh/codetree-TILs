@@ -29,7 +29,7 @@
 <img width="546" alt="image" src="https://github.com/user-attachments/assets/da2e45fc-08ae-48d3-a238-ccfbfa7d601e">
 
 ### 스탬프 및 쿠폰 페이지
-img width="546" alt="image" src="https://github.com/user-attachments/assets/63eb1f20-7ffb-48d7-ab80-046da8cc4649">
+<img width="546" alt="image" src="https://github.com/user-attachments/assets/63eb1f20-7ffb-48d7-ab80-046da8cc4649">
 
 
 ## 🖥️Developer Rule
